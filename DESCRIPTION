@@ -1,0 +1,11 @@
+Package: sstools
+Type: Package
+Title: Tools to read and plot outputs from Stock Synthesis.
+Version: 1.9
+Date: 2013-11-27
+Author: Momoko Ichinokawa
+Maintainer: Momoko Ichinokawa <ichimomo@fra.affrc.go.jp>
+Description: 
+License:
+LazyLoad: yes
+Packaged: 2013-11-28 05:32:06 UTC; momoko
